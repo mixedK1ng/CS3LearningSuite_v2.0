@@ -1,0 +1,37 @@
+315_project1
+360云盘
+AndroidStudioProjects
+Applications
+CSE336
+Creative Cloud Files
+Creative Cloud Files (archived) (1)
+Desktop
+Documents
+Downloads
+Google 云端硬盘
+IdeaProjects
+Library
+Mac-command-wallpaper
+Movies
+Music
+NetBeansProjects
+Parallels
+Perl5-IDEA
+Pictures
+Public
+PycharmProjects
+Sites
+Sourcetree
+UnblockNeteaseMusic
+dir.txt
+get-pip.py
+glassfish5
+hw1_1.ipe.autosave
+iCloud Drive（归档）
+iCloud Drive（归档） - 1
+iCloud Drive（归档） - 2
+keyStore
+pslog.txt
+repos
+tmp
+unnamed.autosave
