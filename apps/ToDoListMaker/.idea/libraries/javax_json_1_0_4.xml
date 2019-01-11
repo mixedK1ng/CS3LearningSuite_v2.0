@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="javax.json-1.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../libs/javax.json-1.0.4.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../libs/DesktopJavaFramework" />
+      <root url="file://$PROJECT_DIR$/../../libs/PropertiesManager" />
+      <root url="file://$PROJECT_DIR$/../../libs/jTPS" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../libs/DesktopJavaFramework/src" />
+      <root url="file://$PROJECT_DIR$/../../libs/PropertiesManager/src" />
+      <root url="file://$PROJECT_DIR$/../../libs/PropertiesManager/test" />
+      <root url="file://$PROJECT_DIR$/../../libs/jTPS/src" />
+      <root url="file://$PROJECT_DIR$/../../libs/jTPS/test" />
+    </SOURCES>
+  </library>
+</component>
